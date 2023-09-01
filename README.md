@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **mdjewelrana.cse.pust@gmail.com**
 
-- ⚡ Fun fact **I think funny**
+- ⚡ Fun fact **---------**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
