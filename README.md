@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm MD JEWEL RANA</h1>
 <h3 align="center">A passionate Competative programming,Data Scientist from Bangladesh</h3>
-
+<img align="right" alt="coding" width="400" src="![image](https://github.com/jewelrana77/jewelrana77/assets/61107733/bc6fb913-9181-478e-a9a9-9192f93ccf42)
+">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jewelrana77&label=Profile%20views&color=0e75b6&style=flat" alt="jewelrana77" /> </p>
 
 - 🔭 I’m currently working on [Bengali Ai](https://bengali.ai/)
@@ -13,7 +14,7 @@
 
 - 📫 How to reach me **mdjewelrana.cse.pust@gmail.com**
 
-- ⚡ Fun fact **---------**
+- ⚡ Fun fact **----hack-----**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
