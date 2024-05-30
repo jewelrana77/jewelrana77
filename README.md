@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm MD JEWEL RANA</h1>
+<h1 align="center">Hi 👋, I'M MD JEWEL RANA</h1>
 <h3 align="center">A passionate Competative programming,Data Scientist from Bangladesh</h3>
 <img align="right" alt="coding" width="400" src="![image](https://github.com/jewelrana77/jewelrana77/assets/61107733/b8fb2352-1654-4aa4-963d-99324893ca5a)
 ">
